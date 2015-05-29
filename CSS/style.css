@@ -1,0 +1,22 @@
+@charset "utf-8";
+/* CSS Document */
+
+* { margin:0; padding:0; }
+#clearer { clear:both; }
+body { background-color:#39F; } 
+
+/*body*/
+
+h1 { font-family:Arial, Helvetica, sans-serif; text-align:center;}
+
+#nav { text-align:center; margin-top:20px; margin-bottom:20px;}
+#nav a { font-family:Arial, Helvetica, sans-serif;}
+#nav a:link, #nav a:visited { text-decoration:none; background-color:#06F; color:#FFF;}
+#nav a:hover { text-decoration:none; background-color:#03F; color:#FFF;}
+
+
+
+
+
+
+ 
